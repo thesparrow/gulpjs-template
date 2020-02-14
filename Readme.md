@@ -1,6 +1,6 @@
-Front-end Boilerplate using Sass and Gulp 4 (php flavor)
+#Front-end Boilerplate using Sass and Gulp 4 (php flavor)
 
-Goals: 
+###Goals: 
     Save time by creating a boiler-plate for future project endeavors. 
     Allow other devs to see how to gracefully migrate from Gulp 3 -> Gulp 4! 
     
@@ -11,10 +11,10 @@ Goals:
     *  How to bundle/concate JS and CSS files and move them to a 'production location'
     *  How to automagically include href of the bundled version in your code :) 
 
-Quickstart:
+###Quickstart:
     1. Clone the repo 
     2. Must have npm /node.js installed 
-    3. Also for php flavor - install the php (I'm running PHP 7.4.2 )
+    3. Also for php flavor - install the php (I'm running PHP 7.4.2)
 
 
 Prerequistes:
