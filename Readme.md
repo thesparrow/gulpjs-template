@@ -16,8 +16,9 @@
     2. Must have npm /node.js installed 
     3. Also for php flavor - install the php (I'm running PHP 7.4.2)
 
+-----------------------------------
 
 Prerequistes:
-    1. Basic understanding of client/browser model (will be using localhost)
-    2. Basic understanding of why you would need a bundle/bundeling versions/minification of css/js
-    3. Basic understanding of how/when javascript/css is called from client 
+1. Basic understanding of client/browser model (will be using localhost)
+2. Basic understanding of why you would need a bundle/bundeling versions/minification of css/js
+3. Basic understanding of how/when javascript/css is called from client 
