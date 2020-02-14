@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 2em;    
+}
+
+.content {
+    background-color: white;
+    border-radius: 15px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+
+    min-height: calc(100vh - 70px);
+    box-shadow: 5px 10px yellow;
+}
+
+.task-list{
+    padding-left: 400px;
+}
+
+
+.footer-content{
+    margin-top: 3em;
+}

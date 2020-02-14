@@ -1,0 +1,23 @@
+{
+  "name": "gulp-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna ",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^2.2.2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-minify": "0.0.10",
+    "gulp-rev": "^7.1.2",
+    "gulp-useref": "^4.0.1"
+  }
+}
