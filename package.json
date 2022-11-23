@@ -9,7 +9,7 @@
   "author": "Anna ",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "del": "^2.2.2",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^2.3.2",
